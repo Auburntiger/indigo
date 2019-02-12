@@ -12,7 +12,7 @@ picture: assets/images/profile_Roger.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: False
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
